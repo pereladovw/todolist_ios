@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (4.7.3)
+  - M13Checkbox (3.2.2)
+  - SwiftHTTP (3.0.1)
+  - SwiftyJSON (4.1.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - M13Checkbox
+  - SwiftHTTP (~> 3.0.1)
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - M13Checkbox
+    - SwiftHTTP
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  M13Checkbox: a8c2491cfbbca10797925fd0b9154a782bf40d89
+  SwiftHTTP: e94f1aa8cde58637dcc0100f6349de31a3337fde
+  SwiftyJSON: c29297daf073d2aa016295d5809cdd68045c39b3
+
+PODFILE CHECKSUM: b104d11ee7a797220003a77dcd402dfb4ed76903
+
+COCOAPODS: 1.5.3
